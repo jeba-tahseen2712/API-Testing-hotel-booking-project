@@ -1,0 +1,2 @@
+newman run Hotel_booking.postman_collection.json -e Hotel_booking.postman_environment.json -r cli,html
+newman run Hotel_booking.postman_collection.json -e Hotel_booking.postman_environment.json -r cli,htmlextra
